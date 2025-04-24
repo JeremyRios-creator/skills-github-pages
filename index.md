@@ -1,4 +1,8 @@
 ---
-title: Welcome to my blog
+title: Welcome to my site
+---
+
+---
+This is where new content will go
 ---
 
